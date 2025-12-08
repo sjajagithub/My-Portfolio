@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sjajagithub/My-Portfolio/static/css/main.a5b7f885.css",
+    "main.js": "/sjajagithub/My-Portfolio/static/js/main.dd27d960.js",
+    "static/media/me.png": "/sjajagithub/My-Portfolio/static/media/me.0b2750c679f89ab26ca5.png",
+    "index.html": "/sjajagithub/My-Portfolio/index.html",
+    "main.a5b7f885.css.map": "/sjajagithub/My-Portfolio/static/css/main.a5b7f885.css.map",
+    "main.dd27d960.js.map": "/sjajagithub/My-Portfolio/static/js/main.dd27d960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b7f885.css",
+    "static/js/main.dd27d960.js"
+  ]
+}

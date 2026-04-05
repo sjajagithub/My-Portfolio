@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.a5b7f885.css",
-    "main.js": "/My-Portfolio/static/js/main.c797d4c4.js",
-    "static/media/me.png": "/My-Portfolio/static/media/me.0b2750c679f89ab26ca5.png",
-    "index.html": "/My-Portfolio/index.html",
-    "main.a5b7f885.css.map": "/My-Portfolio/static/css/main.a5b7f885.css.map",
-    "main.c797d4c4.js.map": "/My-Portfolio/static/js/main.c797d4c4.js.map"
+    "main.css": "/OnPresence/static/css/main.3982bb5f.css",
+    "main.js": "/OnPresence/static/js/main.7179fd91.js",
+    "static/media/girl.jpg": "/OnPresence/static/media/girl.c1161d7d95928960f401.jpg",
+    "static/media/gesture.jpg": "/OnPresence/static/media/gesture.1c399962aef8016162b0.jpg",
+    "static/media/earing.jpg": "/OnPresence/static/media/earing.2b74beb2d08bfaa71362.jpg",
+    "static/media/lotus.jpg": "/OnPresence/static/media/lotus.c34336033ef52127bade.jpg",
+    "static/media/civil.jpg": "/OnPresence/static/media/civil.4519d888acb9167a19b6.jpg",
+    "index.html": "/OnPresence/index.html",
+    "main.3982bb5f.css.map": "/OnPresence/static/css/main.3982bb5f.css.map",
+    "main.7179fd91.js.map": "/OnPresence/static/js/main.7179fd91.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5b7f885.css",
-    "static/js/main.c797d4c4.js"
+    "static/css/main.3982bb5f.css",
+    "static/js/main.7179fd91.js"
   ]
 }
